@@ -1,4 +1,4 @@
-Project of the masters thesis of Matthias Hein. Code created by (c) Matthias Hein
+Project of the masters thesis of Johannes Hein. Code created by (c) Johannes Hein
 
 # install tools
 
