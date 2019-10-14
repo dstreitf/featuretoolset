@@ -1,3 +1,6 @@
+Project of the masters thesis of Matthias Hein
+Code created by (c) Matthias Hein
+
 # install tools
 
 git
